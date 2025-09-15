@@ -1,0 +1,11 @@
+# virtual env
+venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# data
+data/*
+!data/.gitkeep
